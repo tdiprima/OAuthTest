@@ -6,4 +6,4 @@ Do `npm install`
 
 Run `node server.js`
 
-Use index.html as the client requesting access.
+Use index.html as the client requesting access. (Use Live Server in VS Code.)
